@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+//atm interface
 class BankAccount 
 {
     private double balance;
