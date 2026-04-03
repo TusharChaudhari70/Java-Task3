@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 
 //atm interface
+
+//yes
 class BankAccount 
 {
     private double balance;
